@@ -1,0 +1,7 @@
+export const carsapiurl = '/cars'
+export const bookingsapiurl = '/bookings'
+export const MyProducts = '/products'
+export const DbCategories = '/category'
+export const OrdersList = '/order/get-orders-list'
+export const DeleteOrder = '/order'
+export const AdminLogin = '/admin/login'

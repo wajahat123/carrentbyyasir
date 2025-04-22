@@ -1,0 +1,7 @@
+export const CarListEndPoint = '/cars'
+export const BookCarEndPoint = '/bookings'
+export const GetCart = '/cart/get-cart'
+export const GuestAddress = '/address/get-address/guest'
+export const MakeOrder = '/order/create-order'
+export const addAddress = 'address/add-address'
+export const paymentApiUrl = 'payment/create-payment-intent'
